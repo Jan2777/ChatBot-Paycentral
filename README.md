@@ -2,8 +2,8 @@
 
 Welcome to the PayCentral Chatbot! 💬🏦 This project was developed during my internship at PayCentral, a leading South African bank. I was tasked with creating a chatbot to enhance customer support and streamline banking tasks. This repository contains the chatbot I developed as part of that assignment.
 
-![Chatbot GIF](assets/pc-chat1.gif)
-https://github.com/Jan2777/ChatBot-Paycentral/blob/main/pc-chat1.gif
+
+![](https://github.com/Jan2777/ChatBot-Paycentral/blob/main/pc-chat1.gif)
 
 <h2>🚀 Features</h2>
 
